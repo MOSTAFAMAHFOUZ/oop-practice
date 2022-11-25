@@ -1,0 +1,19 @@
+{
+    "name": "mostafa-mahfouz/shopping-cart",
+    "description": "learn how to practice on oop by making shopping cart",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MOSTAFAMAHFOUZ",
+            "email": "mahfouzm25@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
