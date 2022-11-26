@@ -3,6 +3,11 @@
     "description": "learn how to practice on oop by making shopping cart",
     "type": "library",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "src\\":"Src/"
+        }
+    },
     "authors": [
         {
             "name": "MOSTAFAMAHFOUZ",
