@@ -1,6 +1,10 @@
-# shopping cart using php 
+# Shopping Cart Using PHP - OOP  
 - implement oop of PHP to make a full customized shopping cart 
- --- 
+
+---
+### How to use this code 
+--- 
+
 ```PHP
 $product1 = new App\Product(1,"product one",50,100);
 $product2 = new App\Product(2,"product two",50,100);
