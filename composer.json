@@ -1,0 +1,19 @@
+{
+    "name": "mostafa-mahfouz/oop-practice",
+    "description": "learn how to practice on php oop using real examples",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MostafaMahfouz\\OopPractice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MOSTAFAMAHFOUZ",
+            "email": "mahfouzm25@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
