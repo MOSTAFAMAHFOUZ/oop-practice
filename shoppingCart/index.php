@@ -4,14 +4,14 @@
 require_once 'vendor/autoload.php';
 
 
-$product1 = new App\Product(1,"product one",50,100);
-$product2 = new App\Product(2,"product two",50,100);
-$product3 = new App\Product(3,"product three",50,100);
-$product4 = new App\Product(4,"product four",50,100);
-$product5 = new App\Product(5,"product five",50,100);
+$product1 = new Src\Product(1,"product one",50,100);
+$product2 = new Src\Product(2,"product two",50,100);
+$product3 = new Src\Product(3,"product three",50,100);
+$product4 = new Src\Product(4,"product four",50,100);
+$product5 = new Src\Product(5,"product five",50,100);
 
 
-$cart = new App\Cart;
+$cart = new Src\Cart;
 
 /**
  * insert new item to cart
