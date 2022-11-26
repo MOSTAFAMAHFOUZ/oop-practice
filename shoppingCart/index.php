@@ -23,7 +23,7 @@ $cart->insertItem($product2,2);
 /**
  * update quantity for cart 
  */
-$cart->updateQty(2,10);
+// $cart->updateQty(2,10);
 
 /**
  * remove item from cart
